@@ -12,7 +12,7 @@ Here are a few of my favorite projects:
 ### Ongoing Projects
 
 - **Low Sodium Hit System** (Private): I'm involved in developing the hit system for a Garry's Mod server called **Low Sodium**. I also take suggestions from the community, so feel free to [join us on Discord](https://discord.com/invite/BTjYMp3FWe)!
-- **Skibidiware** (Private): 🤫
+- **Skibidiware** (Private): Learning project
 - **[CookieOS](https://github.com/PrinceOfCookies/CookieOS)**: Fun little computercraft project
 
 ## Content Creation
