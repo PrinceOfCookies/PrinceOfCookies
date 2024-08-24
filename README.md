@@ -7,7 +7,7 @@ I'm **PrinceOfCookies**, a 17-year-old developer who likes coding, gaming, and c
 Here are a few of my favorite projects:
 
 - **[TS-CookieLang](https://github.com/PrinceOfCookies/TS-CookieLang)**: This is a project that I enjoyed working on, I thought it was cool being able to make a "language" with type script, although I never finished it sadly
-- **[CookieOS](https://github.com/PrinceOfCookies/CookieOS)**: This is a project for a Minecraft mod called [CC:Tweaked](https://github.com/cc-tweaked/CC-Tweaked), this replacez a couple of base functions with CC:Tweaked, gives a few new programs to play around with, and a basic UI
+- **[CookieOS](https://github.com/PrinceOfCookies/CookieOS)**: This is a project for a Minecraft mod called [CC:Tweaked](https://github.com/cc-tweaked/CC-Tweaked), this replaces a couple of base functions with CC:Tweaked, gives a few new programs to play around with, and a basic UI
 
 ### Ongoing Projects
 
