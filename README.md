@@ -27,5 +27,5 @@ Need a **simple Discord bot**? I'm available for hire! You can reach out to me v
 
 - **YouTube**: [PrinceOfCookies](https://youtube.com/@princeofcookies?si=1ZGVREywISFAEnwY)
 - **Discord**: [Low Sodium Server](https://discord.com/invite/BTjYMp3FWe)
-- **Personal Discord**: [PrinceOfCookies#1234](https://discord.com/users/698793333178368040)
+- **Personal Discord**: [PrinceOfCookies](https://discord.com/users/698793333178368040)
 - **Email**: prince@strw.club
