@@ -14,7 +14,6 @@ I'm **PrinceOfCookies**, a 17-year-old developer who enjoys coding, gaming, and 
 | Project                                   | Description                                                                                                                                                                           |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Low Sodium Hit System** *(Private)*     | Developing a hit system for a Garry's Mod server called **Low Sodium**. I take community suggestions; join us on [Discord](https://discord.com/invite/BTjYMp3FWe)!                                                             |
-| **Skibidiware** *(Private)*               | A personal learning project.                                                                                                                                                          |
 | **[CookieOS](https://github.com/PrinceOfCookies/CookieOS)** | A continuing project to enhance ComputerCraft functionality.                                                                                                                                  |
 
 
