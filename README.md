@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm **PrinceOfCookies**, a 17-year-old developer who enjoys coding, gaming, and content creation. I love playing **Garry's Mod** and **Minecraft**, and I primarily code in **Lua** and **JavaScript**.
+I'm **PrinceOfCookies**, an 18-year-old developer who enjoys coding, gaming, and content creation. I love playing **Garry's Mod** and **Minecraft**, and I primarily code in **Lua** and **JavaScript**.
 
 ## 🎯 Projects
 
