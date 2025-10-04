@@ -18,7 +18,7 @@ I'm **PrinceOfCookies**, an 18-year-old developer who enjoys coding, gaming, and
 | Project | Description |
 |---------|-------------|
 | **Low Sodium Hit System** *(Private)* | A hit system for a Garry’s Mod server called **Low Sodium**. I'm open to community suggestions — [join us on Discord](https://discord.com/invite/BTjYMp3FWe)! |
-| **Fudgy GMod DarkRP** *(Private)* | I help develop a DarkRP server for [**Fudgy**](https://www.youtube.com/channel/UCh7gme0kfhUZXG3NDqpeL_g), alongside [**lionbryce**](https://github.com/lionbryce). |
+| **Fudgy GMod DarkRP** *(Private)* | I am a developer a DarkRP server for [**Fudgy**](https://www.youtube.com/channel/UCh7gme0kfhUZXG3NDqpeL_g) |
 | [**StrwRemastered**](https://github.com/PrinceOfCookies/StrwRemastered) | A Discord bot for the [Strawhat](https://discord.gg/rfYF3PSveM) community, run by my friend [Lifeline4603](https://youtube.com/@lifeline4603). |
 | [**Kitty Cult Bot**](https://github.com/PrinceOfCookies/KittyCultBot2.0) | A fun little Discord bot that serves up random cat images using [TheCatAPI](https://thecatapi.com). |
 
